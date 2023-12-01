@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-11-30T23:29:42.365Z"
+    },
+    {
+      "id": 2,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-11-30T23:29:42.365Z"
+    },
+    {
+      "category": "Educação",
+      "description": "Curso",
+      "price": 2000,
+      "type": "outcome",
+      "createdAt": "2023-12-01T22:44:59.720Z",
+      "id": 3
+    },
+    {
+      "category": "Alimentação",
+      "description": "Chocolate",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2023-12-01T23:03:39.418Z",
+      "id": 4
+    }
+  ]
+}
